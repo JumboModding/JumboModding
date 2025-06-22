@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Jumbo-Modding Kahden suomalaisen perustama modding/scriptaus Discordi👋
+- ⚡ Discordimme: https://discord.gg/Qwfca5ZXSY
+- 🔭 Teemme paljon autoja ja vaatteita Fivem palvelimille! 
 <!--
 **JumboModding/JumboModding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
